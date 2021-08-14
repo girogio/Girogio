@@ -9,3 +9,5 @@
 - 📫 You can contact me by sending an email on `giorgiogrigolo03@gmail.com`
 
 <p align="center"> <i>hoping I get half decent grades to get into uni this year</i> </p>
+<p align="center"> <i>EDIT: I GOT IN ;)</i> </p>
+
