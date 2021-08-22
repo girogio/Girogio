@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m Giorgio &ndash; your average 18 year old. Assuming that the average is exactly what I am. And I'm pretty sure that the previous statement is false.
+- 👋 Hey there, I’m Giorgio &ndash; your average 18 year old. Assuming that the average is exactly what I am. I'm also pretty sure that the previous statement is false.
 
 - 👀 I’m interested in music (not your usual stuff), mathematics, computer science, speed-cubing and mobile app development.
 
