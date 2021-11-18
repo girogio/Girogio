@@ -1,13 +1,3 @@
-- 👋 Hey there, I’m Giorgio &ndash; your average 18 year old. Assuming that the average is exactly what I am. I'm also pretty sure that the previous statement is false.
+Hi, I'm Giorgio! Thanks for taking interest in my coding endeavours.
 
-- 👀 I’m interested in music (not your usual stuff), mathematics, computer science, speed-cubing and mobile app development.
-
-- 🌱 I’m currently learning React native, JavaScript and advanced mathematics.
-
-- 💞️ I’m looking to collaborate on any app concept or ideas you might have and turn them into reality! (check out my portfolio at [giorgiogrigolo.com](https://www.giorgiogrigolo.com))
-
-- 📫 You can contact me by sending an email on `giorgiogrigolo03@gmail.com`
-
-<p align="center"> <i>hoping I get half decent grades to get into uni this year</i> </p>
-<p align="center"> <i>EDIT: I GOT IN ;)</i> </p>
-
+Currently, I am following an Mathematics and Computer Science undergraduate course at the [University of Malta](https://um.edu.mt), whilst being an active member of the [Malta Mathematical Society](https://www.facebook.com/MaltaMathSoc/). Furthermore, I am teaching Mathematics (*Ordinary and Intermediate levels*) on a one-to-one basis. I advocate for the usage of free [*(libre)*](https://wikipedia.com/free_software) software whenever possible. Additionally, I use [Arch Linux](https://archlinux.org/) as my daily driver together with [i3-gaps](https://github.com/Airblader/i3).   
