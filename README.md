@@ -1,6 +1,6 @@
 Hey there, caught you looking around. Might as well introduce myself then.
 
-I'm Giorgio Grigolo, a student following a B.Sc. in Mathematics and Computer Science at the [University of Malta](https://um.edu.mt), where I also serve as a student representative on the Board of Studies of the Department of Mathematics. Together with fellow students, I run the [Malta Mathematical Society](https://www.facebook.com/MaltaMathSoc/), where we focus on the national development of the academic mathematical disciplines.
+I'm Giorgio, an undergrad at the [University of Malta](https://um.edu.mt) studying mathematics and computer science. There, I also serve as a student representative on the Board of Studies of the Department of Mathematics. Together with some fellow students, I run the [Malta Mathematical Society](https://www.facebook.com/MaltaMathSoc/), where we focus on the national development of the academic mathematical disciplines.
 
 A notable mention in my life advancement is the startup I founded together with my university companion [Zack Xuereb](https://github.com/Zack-Xb), namely ApplabMT, where we kickstarted in the Web3 ocean. Ever since, we haven't stopped learning and researching ways to improve current blockchains. I also worked with [Dedaub](https://dedaub.com) as an intern.
 
