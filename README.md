@@ -1,15 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Giorgio Grigolo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Giorgio Grigolo!
 =======================================================================================================================================
 
 Co-founder, CTO, Student
 ------------------------
 
-I'm Giorgio, an undergrad at the University of Malta studying mathematics and computer science. There, I also serve as a student representative on the Board of Studies of the Department of Mathematics. Together with some fellow students, I run the Malta Mathematical Society, where we focus on the national development of the academic mathematical disciplines. A notable mention in my life advancement is the startup I founded together with my university companion Zack Xuereb, namely ApplabMT, where we kickstarted in the Web3 ocean. Ever since, we haven't stopped learning and researching ways to improve current blockchains. I also worked with Dedaub as an intern. In my spare time, I like to play CTFs together with some friends, with whom I've had the honour to represent my country in the ECSC. In my spare spare time (if any), I like to research various topics, such as quantum computing/cryptography, graph theory, blockchain analysis – and most importantly how I'm going to integrate them all.
+I'm Giorgio, an undergrad at the University of Malta studying mathematics and computer science. There, I also serve as a student representative on the Board of Studies of the Department of Mathematics. Together with some fellow students, I run the Malta Mathematical Society, where we focus on the national development of the academic mathematical disciplines. 
+
+My proudest achievement to date is my most recent startup [Avail](https://avail.global) (>130k seed funds), where we strive to make private self-custody the norm in the financial world. Through deep integration with [Aleo](aleo.org) (a private-by-design blockchain) we are building a wallet to facilitate  _private, compliant, and seamless transactions_ in the real world. Concurrently, I also work with [Merqury Cybersecurity](merqury.eu), where we are leading the development on [Malta](https://en.wikipedia.org/wiki/Malta)'s first quantum key distribution network, ([PRISM](https://prism-euroqci.eu)), as part of the [EuroQCI](https://digital-strategy.ec.europa.eu/en/policies/european-quantum-communication-infrastructure-euroqci) initiative. I have also worked with [Dedaub](dedaub.com) as an intern. 
+
+In my spare time, I like to play CTFs together with some friends, with whom I've had the honour to represent my country in the ECSC. In my spare spare time (if any), I like to read about quantum information, zero-knowledge cryptography and everything blockchain related.
 
 * 🌍  I'm based in Malta
 * ✉️  You can contact me at [giorgio@grigolo.mt](mailto:giorgio@grigolo.mt)
 * 🚀  I'm currently working on [Avail](http://avail.global)
-* 🧠  I'm learning Zero Knowledge, Quantum Information and Rust
 
 <a href="https://www.github.com/girogio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/girogio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
