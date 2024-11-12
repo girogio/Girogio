@@ -8,7 +8,7 @@ I'm Giorgio, an undergrad at the University of Malta studying mathematics and co
 
 My proudest achievement to date is my most recent startup [Avail](https://avail.global) (>130k seed funds), where we strive to make private self-custody the norm in the financial world. Through deep integration with [Aleo](aleo.org) (a private-by-design blockchain) we were building a wallet to facilitate  _private, compliant, and seamless transactions_ in the real world. Now, I work with [Merqury Cybersecurity](merqury.eu), where we lead the techincal development of [Malta](https://en.wikipedia.org/wiki/Malta)'s first test quantum key distribution network, ([PRISM](https://prism-euroqci.eu)), as part of the [EuroQCI](https://digital-strategy.ec.europa.eu/en/policies/european-quantum-communication-infrastructure-euroqci) initiative. I have also worked with [Dedaub](dedaub.com) as an intern. 
 
-In my spare time, I like to play CTFs together with some friends, with whom I've had the honour to represent my country in the ECSC. In my spare spare time (if any), I like to read about quantum information, zero-knowledge cryptography and everything blockchain related.
+In my spare time, I like to play CTFs together with some friends, with whom I've had the honour to represent my country in the ECSC. In my spare spare time (if any), I like to read about quantum information, quantum cryptography, zero-knowledge cryptography and anything infosec related.
 
 * 🌍  I'm based in Malta
 * ✉️  You can contact me at giorgio (@t) grigolo (d0t) mt
